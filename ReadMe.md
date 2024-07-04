@@ -1,6 +1,5 @@
 <h1 align="center">Hello World, I'm Adarsh Raj Sinha</h1>
----
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 ## 💫 About Me:
 🔭 I’m currently pursuing my B.Tech in Computer Science and Engineering (CSE) from Medi-Caps University<br>👯 I’m looking to collaborate on interesting projects with MERN and Python<br>👀 I’m interested in Web-Development, Software development and languages like C++, Python and JavaScript<br>👨‍💻 All of my portfolio is available at (https://portfolio-page-main.vercel.app)
